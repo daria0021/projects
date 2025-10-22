@@ -1,0 +1,5 @@
+SIZE 5 5
+START 0 0
+LOAD saved.txt
+MOVE RIGHT
+PAINT b

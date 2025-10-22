@@ -1,0 +1,10 @@
+SIZE 10 10
+START 5 5
+MOVE UP
+PAINT a
+UNDO
+DIG UP  // ошибка: неверный формат
+MOVE LEFT
+JUMP UP 3  // warning: obstacle
+UNDO
+PUSH UP  // ошибка: no stone

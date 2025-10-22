@@ -1,0 +1,16 @@
+SIZE 10 10
+START 5 5 // с нуля
+PAINT a
+MOVE UP
+MOUND LEFT
+MOUND DOWN
+DIG DOWN
+DIG DOWN
+MOUND DOWN
+JUMP RIGHT 2
+GROW UP
+CUT UP
+JUMP LEFT 14
+//EXEC sub.txt
+// warnings! (doesn't work)
+// check all objects hard cases!
